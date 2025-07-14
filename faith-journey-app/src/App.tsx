@@ -1,5 +1,5 @@
 // src/App.tsx
-import React from "react";
+
 import JourneyList from "./components/JourneyList.tsx";
 
 function App() {
