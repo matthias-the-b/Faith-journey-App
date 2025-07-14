@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "faith-journey-app/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
